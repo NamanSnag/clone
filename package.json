@@ -1,0 +1,28 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "cloning of folder structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamanSnag/clone.git"
+  },
+  "keywords": [
+    "clone"
+  ],
+  "author": "Naman NAg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamanSnag/clone/issues"
+  },
+  "homepage": "https://github.com/NamanSnag/clone#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.4"
+  }
+}
